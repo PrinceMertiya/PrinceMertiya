@@ -1,4 +1,4 @@
-<h3 align="right">Hey, I’m Prince Mertiya — a software engineer who’s currently chilling and coding (yep, both at the same time 😎).<br> I don’t always think how to do, sometimes I just do — because honestly, reflex saves you from buggy chaos more than you'd think. I build cool things, break a few in the process, and learn a ton along the way. Stay curious, write clean code, and hey… don’t forget your water intake 💧💻.</h3>
+<h3 align="center">Hey, I’m Prince Mertiya — a software engineer who’s currently chilling and coding (yep, both at the same time 😎).<br> I don’t always think how to do, sometimes I just do — because honestly, reflex saves you from buggy chaos more than you'd think. I build cool things, break a few in the process, and learn a ton along the way. Stay curious, write clean code, and hey… don’t forget your water intake 💧💻.</h3>
 
 ###
 
@@ -88,6 +88,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceMertiya/PrinceMertiya/output/pacman-contribution-graph-dark.svg">
