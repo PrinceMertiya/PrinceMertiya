@@ -1,4 +1,6 @@
-<h3 align="center">Hey, I’m Prince Mertiya — a software engineer who’s currently chilling and coding (yep, both at the same time 😎).<br> I don’t always think how to do, sometimes I just do — because honestly, reflex saves you from buggy chaos more than you'd think. I build cool things, break a few in the process, and learn a ton along the way. Stay curious, write clean code, and hey… don’t forget your water intake 💧💻.</h3>
+<br clear="both">
+
+<h2 align="center">Hey, I’m Prince Mertiya — a software engineer who’s currently chilling and coding (yep, both at the same time 😎).<br> I don’t always think how to do, sometimes I just do — because honestly, reflex saves you from buggy chaos more than you'd think. I build cool things, break a few in the process, and learn a ton along the way. Stay curious, write clean code, and hey… don’t forget your water intake 💧💻.</h2>
 
 ###
 
@@ -101,6 +103,12 @@
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/PrinceMertiya/count.svg?"  />
 </div>
 
 ###
